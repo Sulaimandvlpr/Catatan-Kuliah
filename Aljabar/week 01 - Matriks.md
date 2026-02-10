@@ -45,7 +45,7 @@ Biasanya dilambangkan dengan `I`.
 Contoh matriks identitas 3×3:
 
 ```text
-I₃ = | 1  0  0 |
+I₃ =  | 1  0  0 |
       | 0  1  0 |
       | 0  0  1 |
 ```
