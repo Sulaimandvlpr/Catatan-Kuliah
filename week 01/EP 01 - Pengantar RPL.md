@@ -176,11 +176,3 @@ Requirements → Design → Implementation → Testing → Deployment → Mainte
 * Pressman, Roger S. — *Software Engineering: A Practitioner’s Approach*. 
 
 ---
-
-Kalau mau, aku bisa lanjut ke salah satu hal berikut (pilih salah satu, atau minta semuanya):
-
-1. **Buatkan SRS contoh** untuk aplikasi sederhana (lengkap dengan requirement fungsional & non-fungsional).
-2. **Susun ringkasan slide** (PowerPoint) yang rapi berisi poin-poin ini sehingga siap dipresentasikan.
-3. **Beri contoh langkah-langkah praktis** untuk tugas proyek (timeline, deliverables, checklist testing).
-
-Mau lanjut ke mana?
