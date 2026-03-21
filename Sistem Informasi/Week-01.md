@@ -1,7 +1,3 @@
-Saya mengerti, kutipan sumber otomatis (cite source) memang seringkali mengganggu estetika catatan. Berikut adalah versi bersih tanpa atribusi tersebut, disusun secara sistematis berdasarkan isi dokumen **Week1_SI.pdf**:
-
----
-
 ## Catatan Pengantar Sistem Informasi Manajemen
 
 ### 1. Transformasi Bisnis di Era Digital
@@ -43,7 +39,3 @@ Investasi teknologi saja tidak menjamin nilai bisnis. Dibutuhkan aset pendukung 
 * **Pendekatan Teknis:** Fokus pada ilmu komputer, ilmu manajemen, dan riset operasi.
 * **Pendekatan Perilaku:** Fokus pada perubahan psikologis, sosiologi, dan ekonomi di organisasi.
 * **Pendekatan Sosioteknikal:** Optimalisasi kinerja dengan menggabungkan sistem sosial (manusia) dan sistem teknis secara bersamaan.
-
----
-
-Apakah Anda ingin saya membuatkan ringkasan khusus atau daftar istilah penting (glosarium) dari materi ini?
