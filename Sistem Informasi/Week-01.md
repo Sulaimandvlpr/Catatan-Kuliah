@@ -1,42 +1,49 @@
-### 1. Peran Sistem Informasi dalam Bisnis Global Saat Ini
-Sistem informasi telah mengubah cara bisnis beroperasi melalui inovasi teknologi seperti:
-* [cite_start]**Platform Digital Mobile**: Penggunaan smartphone dan tablet sebagai basis bisnis utama[cite: 35].
-* [cite_start]**Big Data & IoT**: Pemanfaatan data skala besar dan Internet of Things untuk analisis bisnis yang lebih akurat[cite: 35, 36].
-* [cite_start]**Model Bisnis Baru**: Munculnya layanan berbasis digital seperti Netflix, Spotify, Tokopedia, dan Gojek[cite: 35].
-* [cite_start]**Perusahaan Digital (Digital Firm)**: Organisasi di mana semua hubungan bisnis dengan pelanggan, pemasok, dan karyawan dijalankan secara digital[cite: 37]. [cite_start]Proses bisnis inti dan aset utama perusahaan dikelola melalui jaringan digital[cite: 38].
+Saya mengerti, kutipan sumber otomatis (cite source) memang seringkali mengganggu estetika catatan. Berikut adalah versi bersih tanpa atribusi tersebut, disusun secara sistematis berdasarkan isi dokumen **Week1_SI.pdf**:
+
+---
+
+## Catatan Pengantar Sistem Informasi Manajemen
+
+### 1. Transformasi Bisnis di Era Digital
+Perubahan signifikan dalam dunia bisnis saat ini didorong oleh:
+* **Platform Digital Mobile:** Penggunaan perangkat seluler sebagai alat kerja utama.
+* **Pertumbuhan Layanan Online:** Transisi ke arah perangkat lunak sebagai layanan (SaaS).
+* **Big Data & Cloud Computing:** Pemanfaatan data skala besar dan penyimpanan awan untuk efisiensi.
+* **Perusahaan Digital:** Organisasi yang mengelola hubungan pelanggan, pemasok, dan karyawan secara digital serta menjalankan proses bisnis inti melalui jaringan digital.
 
 ### 2. Tujuan Bisnis Strategis Sistem Informasi
-Perusahaan berinvestasi pada sistem informasi untuk mencapai enam tujuan utama:
-1.  [cite_start]**Keunggulan Operasional**: Meningkatkan efisiensi untuk mencapai profitabilitas yang lebih tinggi (contoh: sistem Retail Link Walmart)[cite: 43, 44].
-2.  [cite_start]**Produk, Layanan, dan Model Bisnis Baru**: Menciptakan cara baru dalam menjual produk (contoh: Apple iPad, Netflix)[cite: 43, 45].
-3.  [cite_start]**Keintiman Pelanggan dan Pemasok**: Melayani pelanggan secara personal agar mereka kembali dan menjalin hubungan erat dengan pemasok untuk menurunkan biaya[cite: 43, 46, 48].
-4.  [cite_start]**Pengambilan Keputusan yang Lebih Baik**: Menggunakan data real-time untuk menghindari prediksi atau tebakan yang salah (contoh: dasbor digital Verizon)[cite: 43, 49, 50].
-5.  [cite_start]**Keunggulan Kompetitif**: Memberikan kinerja lebih baik atau harga lebih murah dibandingkan pesaing[cite: 43, 50].
-6.  [cite_start]**Kelangsungan Usaha (Survival)**: Memenuhi kebutuhan industri atau regulasi pemerintah (contoh: penggunaan ATM atau penyimpanan data digital sesuai undang-undang)[cite: 43, 51].
+Perusahaan berinvestasi pada SI untuk mencapai enam target utama:
+1.  **Keunggulan Operasional:** Meningkatkan efisiensi dan produktivitas (Contoh: Walmart).
+2.  **Produk & Model Bisnis Baru:** Menciptakan cara baru dalam memberikan nilai (Contoh: Netflix).
+3.  **Keintiman Pelanggan & Pemasok:** Mempererat hubungan untuk meningkatkan loyalitas dan menurunkan biaya.
+4.  **Pengambilan Keputusan yang Lebih Baik:** Menggunakan data real-time untuk akurasi prediksi.
+5.  **Keunggulan Kompetitif:** Melakukan sesuatu lebih baik dari pesaing dengan biaya lebih rendah.
+6.  **Kelangsungan Usaha (Survival):** Menanggapi perubahan regulasi atau kebutuhan industri (Contoh: ATM di perbankan).
 
-### 3. Definisi dan Fungsi Sistem Informasi
-* [cite_start]**Sistem Informasi**: Kumpulan komponen yang saling terkait untuk mengumpulkan, memproses, menyimpan, dan mendistribusikan informasi guna mendukung pengambilan keputusan dan kendali dalam organisasi[cite: 52].
-* [cite_start]**Data vs. Informasi**: Data adalah sekumpulan fakta mentah, sedangkan informasi adalah data yang telah diolah menjadi bentuk yang bermakna bagi manusia[cite: 53].
-* **Aktivitas Utama**:
-    * [cite_start]**Input**: Mengumpulkan data mentah[cite: 55].
-    * [cite_start]**Pemrosesan**: Mengubah data mentah menjadi informasi[cite: 55].
-    * [cite_start]**Output**: Mendistribusikan informasi hasil proses kepada pengguna[cite: 55].
-    * [cite_start]**Feedback**: Keluaran yang dikembalikan untuk mengevaluasi atau memperbaiki tahap input[cite: 56].
+### 3. Definisi dan Komponen Sistem Informasi
+* **Sistem Informasi:** Serangkaian komponen yang mengumpulkan, memproses, menyimpan, dan mendistribusikan informasi untuk mendukung pengambilan keputusan.
+* **Data vs Informasi:** Data adalah fakta mentah; Informasi adalah data yang telah diolah menjadi bentuk yang memiliki arti.
+* **Tiga Aktivitas Utama:** * **Input:** Pengumpulan data mentah.
+    * **Pemrosesan:** Konversi data menjadi informasi.
+    * **Output:** Distribusi informasi kepada pengguna.
 
-### 4. Dimensi Sistem Informasi
-Sistem informasi yang efektif memerlukan pemahaman atas tiga dimensi:
-1.  [cite_start]**Organisasi**: Melibatkan hierarki otoritas (manajemen senior, menengah, operasional) dan prosedur standar operasional[cite: 66].
-2.  [cite_start]**Manajemen**: Tugas manajer untuk membuat strategi, mengambil keputusan, dan menciptakan produk baru[cite: 68].
-3.  [cite_start]**Teknologi**: Terdiri dari perangkat keras, perangkat lunak, teknologi manajemen data, dan teknologi jaringan/telekomunikasi[cite: 70].
+### 4. Tiga Dimensi Sistem Informasi
+Pemahaman SI yang lengkap mencakup:
+1.  **Organisasi:** Terdiri dari hierarki (manajemen senior, menengah, operasional) dan budaya perusahaan.
+2.  **Manajemen:** Peran manajer dalam membuat strategi dan rencana aksi.
+3.  **Teknologi:** Infrastruktur yang terdiri dari perangkat keras (hardware), perangkat lunak (software), manajemen data, dan jaringan.
 
-### 5. Perspektif Bisnis dan Aset Pelengkap
-* [cite_start]**Rantai Nilai Informasi**: Sistem informasi merupakan bagian dari rangkaian aktivitas penambah nilai untuk meningkatkan pengambilan keputusan dan profitabilitas[cite: 72, 73].
-* **Aset Pelengkap (Complementary Assets)**: Investasi teknologi informasi saja tidak cukup; perusahaan harus berinvestasi pada aset pendukung seperti:
-    * [cite_start]**Aset Organisasi**: Model bisnis yang tepat dan proses bisnis yang efisien[cite: 77].
-    * [cite_start]**Aset Manajerial**: Lingkungan kerja kolaboratif dan insentif bagi inovasi[cite: 77].
-    * [cite_start]**Aset Sosial**: Infrastruktur internet dan standar teknologi yang memadai[cite: 77].
+### 5. Aset Pelengkap (Complementary Assets)
+Investasi teknologi saja tidak menjamin nilai bisnis. Dibutuhkan aset pendukung seperti:
+* **Aset Organisasi:** Proses bisnis yang efisien dan budaya organisasi yang mendukung.
+* **Aset Manajerial:** Dukungan manajemen senior dan lingkungan kerja kolaboratif.
+* **Aset Sosial:** Infrastruktur internet yang memadai dan regulasi pemerintah yang mendukung.
 
 ### 6. Pendekatan Studi Sistem Informasi
-* [cite_start]**Pendekatan Teknis**: Fokus pada model berbasis matematika, ilmu komputer, dan riset operasi[cite: 78].
-* [cite_start]**Pendekatan Perilaku**: Fokus pada isu psikologi, sosiologi, dan ekonomi terkait implementasi sistem[cite: 78].
-* [cite_start]**Pendekatan Sosioteknikal**: Memandang bahwa kinerja organisasi yang optimal dicapai dengan mengoptimalkan sistem sosial (manusia) dan teknis secara bersama-sama[cite: 79].
+* **Pendekatan Teknis:** Fokus pada ilmu komputer, ilmu manajemen, dan riset operasi.
+* **Pendekatan Perilaku:** Fokus pada perubahan psikologis, sosiologi, dan ekonomi di organisasi.
+* **Pendekatan Sosioteknikal:** Optimalisasi kinerja dengan menggabungkan sistem sosial (manusia) dan sistem teknis secara bersamaan.
+
+---
+
+Apakah Anda ingin saya membuatkan ringkasan khusus atau daftar istilah penting (glosarium) dari materi ini?
